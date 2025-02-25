@@ -63,7 +63,7 @@ ROOT
                 <td> artist_name_trance_remove_kakko </td> <td>アーティスト名（日本語）</td>
             </tr>
             <tr>
-                <td> artist_name_kakko_none_en </td> <td>>アーティスト名（アルファベット）</td>
+                <td> artist_name_kakko_none_en </td> <td>アーティスト名（アルファベット）</td>
             </tr>
             <tr>
                 <td> artistID </td> <td>アーティストID</td>
@@ -82,10 +82,10 @@ ROOT
             </tr>
         </thead>
             <tr>
-                <td> artist_name_trance_remove_kakko </td> <td>>アーティスト名（日本語）</td>
+                <td> artist_name_trance_remove_kakko </td> <td>アーティスト名（日本語）</td>
             </tr>
             <tr>
-                <td> artist_name_kakko_none_en </td> <td>>アーティスト名（アルファベット）</td>
+                <td> artist_name_kakko_none_en </td> <td>アーティスト名（アルファベット）</td>
             </tr>
             <tr>
                 <td> artistID </td> <td>アーティストID</td>
